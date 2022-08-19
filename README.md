@@ -1,10 +1,11 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+Set up the repository
 
 # Project Name
 
-> Description the project.
-added a hello microverse header
-the heading color is blue
+Hello Microverse
+
+> Description of the project.
+In this project the github workflow are created and co-runs clearly with the header created in html and its styling in css.
 
 
 
